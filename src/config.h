@@ -1,0 +1,1 @@
+#define ip_checker_server "http://192.168.1.3/itraffic.php"
